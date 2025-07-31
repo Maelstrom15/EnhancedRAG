@@ -1,0 +1,7 @@
+CLAUSE_001: The policy covers knee surgery for individuals aged between 18 and 60 provided the surgery is performed in an accredited hospital.
+
+CLAUSE_002: Claims are not admissible within the first 30 days of policy inception except for accidental emergencies.
+
+CLAUSE_003: The maximum payout for knee surgery is INR 200,000 subject to plan limits.
+
+CLAUSE_004: Procedures conducted outside India are excluded from coverage.
